@@ -29,7 +29,7 @@ I build tools that make people ask **"Why?"** and then **"How?"** in the same br
 | **[Streamium](https://github.com/Abdullah-Al-Raju/streamium)** | Lightweight streaming web app with TMDB metadata, multiple embed providers, auth, watchlist, and comments. | ✅ Done |
 | **[LeadScraper-2.0-Enhanced](https://github.com/Abdullah-Al-Raju/LeadScraper-2.0-Enhanched-)** | Advanced lead generation tool. Enhanced version with better features. | ✅ Done |
 | **[LeadScraper](https://github.com/Abdullah-Al-Raju/LeadScraper)** | Original lead generation tool. Previous version of the enhanced one. | ✅ Done |
-| **[habit-tracker](https://github.com/Abdullah-Al-Raju/habit-tracker)** | Habit tracker built for a lazy person named Abdur Rahim. Used once. Works perfectly. | ✅ Done |
+| **[habit-tracker](https://github.com/Abdullah-Al-Raju/habit-tracker)** | Habit tracker built for a lazy person named Abdullah AL Rahim (Mybrother). Works perfectly. | ✅ Done |
 | **WhyNot-???** | Coming soon. Something that shouldn't exist. | 🔜 |
 
 ---
