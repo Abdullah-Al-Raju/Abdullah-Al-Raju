@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdullah-Al-Raju&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Age-22-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-20-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Bangladesh%20%7C%20Germany%20(Target)-blue?style=for-the-badge" />
 </p>
 
