@@ -24,6 +24,13 @@ I build tools that make people ask **"Why?"** and then **"How?"** in the same br
 |---------|-------------|--------|
 | **[WhyNot-StadtNuke](https://github.com/Abdullah-Al-Raju/WhyNot-StadtNuke)** | City-wide network census tool. Scans entire countries for internet-connected devices using Shodan's free API. Maps everything. | ✅ Production |
 | **[WhyNot-HushTalk](https://github.com/Abdullah-Al-Raju/WhyNot-HushTalk)** | Covert messaging system hiding secrets in ICMP ping delays. No encryption. No special packets. Completely undetectable. | ✅ Production |
+| **[isp-spy-mirror](https://github.com/Abdullah-Al-Raju/isp-spy-mirror)** | See exactly what your ISP can observe about your network traffic — real-time traffic analysis, DNS/TLS inspection, device fingerprinting. | ✅ Production |
+| **[VulnReaper](https://github.com/Abdullah-Al-Raju/VulnReaper)** | Ultimate automated bug bounty hunter. Private while in active development. Will be public soon. | 🔒 Private (Dev) |
+| **[Streamium](https://github.com/Abdullah-Al-Raju/streamium)** | Lightweight streaming web app with TMDB metadata, multiple embed providers, auth, watchlist, and comments. | ✅ Production |
+| **[LibreTV](https://github.com/Abdullah-Al-Raju/LibreTV)** | Free online video search & streaming platform. Deployable on Cloudflare, Vercel, or Docker. | ✅ Production |
+| **[LeadScraper-2.0-Enhanced](https://github.com/Abdullah-Al-Raju/LeadScraper-2.0-Enhanched-)** | Advanced lead generation tool. Enhanced version with better features. | ✅ Production |
+| **[LeadScraper](https://github.com/Abdullah-Al-Raju/LeadScraper)** | Original lead generation tool. Previous version of the enhanced one. | ✅ Production |
+| **[habit-tracker](https://github.com/Abdullah-Al-Raju/habit-tracker)** | Habit tracker built for a lazy person named Abdur Rahim. Used once. Works perfectly. | ✅ Production |
 | **WhyNot-???** | Coming soon. Something that shouldn't exist. | 🔜 |
 
 ---
@@ -50,17 +57,18 @@ I build tools that make people ask **"Why?"** and then **"How?"** in the same br
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Scapy-00AAFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## 🎯 Current Mission
-🇩🇪 Trying to Securing an Ausbildung in Germany as a Network Engineer / SOC Analyst or in Tech Field In genaral.
+🇩🇪 Trying to Securing an Ausbildung in Germany as a Network Engineer / SOC Analyst or in Tech Field In general.
 📍 Target Companies: Any company that loves my passion and i love GERMANY.
 📅 Timeline: 2025-2027 (targeted time)
 ⚡ Status: Building. Breaking. Learning.
-
-text
 
 ---
 
