@@ -55,9 +55,9 @@ I build tools that make people ask **"Why?"** and then **"How?"** in the same br
 ---
 
 ## 🎯 Current Mission
-🇩🇪 Securing an Ausbildung in Germany as a Network Engineer / SOC Analyst
-📍 Target Companies: Deutsche Telekom, Siemens, Bosch, SAP
-📅 Timeline: 2025-2026
+🇩🇪 Trying to Securing an Ausbildung in Germany as a Network Engineer / SOC Analyst or in Tech Field In genaral.
+📍 Target Companies: Any company that loves my passion and i love GERMANY.
+📅 Timeline: 2025-2027 (targeted time)
 ⚡ Status: Building. Breaking. Learning.
 
 text
@@ -73,7 +73,7 @@ text
   <a href="https://www.linkedin.com/in/abdullah-al-raju/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:analystx.raju@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
