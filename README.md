@@ -65,8 +65,11 @@ I build tools that make people ask **"Why?"** and then **"How?"** in the same br
 
 ## 🎯 Current Mission
 🇩🇪 Trying to Securing an Ausbildung in Germany as a Network Engineer / SOC Analyst or in Tech Field In general.
+-
 📍 Target Companies: Any company that loves my passion and i love GERMANY.
+-
 📅 Timeline: 2025-2027 (targeted time)
+-
 ⚡ Status: Building. Breaking. Learning.
 
 ---
