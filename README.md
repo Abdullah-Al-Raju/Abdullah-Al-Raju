@@ -14,7 +14,7 @@
 
 > *"If something doesn't exist, build it. If it exists, break it. If it breaks, document it."*
 
-I build tools that make people ask **"Why?"** and then **"How?"** in the same breath.
+I build tools that make people ask **"Why?"** and then **"How?"** in the same breath. 
 
 ---
 
